@@ -2,7 +2,7 @@
 
 ## About
 
-Ecoleta is an application for registering and finding recyclable waste collection points such as batteries, light bulbs, among others. 
+Ecoleta is an application to register and locate recycling points such as batteries, light bulbs, among others. 
 
 Developed during Next Level Week by Rocketseat.
 
@@ -25,7 +25,7 @@ $ npm run dev
 $ cd web
 $ npm start
 
-# mobile
+# /mobile
 ## Run Mobile(React Native)
 $ cd mobile
 $ npm start
